@@ -24,7 +24,31 @@ let favoriteThings = [
     "How perfect you are. I know you think you're not\nbut you areeeee, all the 'flaws' you think you have\nare not flaws to me. You are perfect",
     "How you talk about me to your family",
     "How you talk about my family, especially my mum",
-    "How much effort you put into us"
+    "How much effort you put into us",
+    "How your brain works.\nI love seeing it work when you play mercy\nor when you're justifying buying something hehe.\nIt's so fascinating",
+    "How much you listen and pay attention.\nLike when you remember things about my family",
+    "Your body is perfect.\n'I'm bonyyyyyy' SHUSH.\nI love every single part of your body",
+    "How well you complete me.\nWe are so similar but in the few areas\nwe are different, it's perfect",
+    "How brave you are.\nYou've been through so much and you never gave up.\nI'm so proud of you",
+    "Your pretty eyessssss. I'm gonna be staring\nat them so much",
+    "The way you never fail to make me smile",
+    "The way you never let me talk bad\nabout myself",
+    "How special you make me feel",
+    "The way you treat the people close to you",
+    "How much you care about our relationship\nand appreciate all the little things",
+    "The way you bring out the best in me",
+    "OH MY GOD YOUR EYES",
+    "Your pretty hair I WANNA TOUCH IT",
+    "How much you try to look pretty for me.\nIt's so sweet, I love it so much",
+    "How cosy your presence is",
+    "How good you are at talking to me\nabout how you feel and being open",
+    "Your ability to make any day good\nno matter how bad things are",
+    "You make me feel so important",
+    "All of your little quriks.\nI cannot wait to discover more when\nwe are together",
+    "The way you always see the good side of people\nand give people the benefit of the doubt",
+    "The random 'I love you' and\n'I miss you' messages",
+    "Your excitement for our future\nand spending forever together",
+    "The way you always make me your priority\nand put me first"
 ];
 
 

@@ -1,6 +1,11 @@
 html, body {
   margin: 0;
   padding: 0;
+  background-color: rgb(255, 182, 193); /* Set the HTML background color to pink */
+  height: 100%; /* Ensure the body takes up the full height */
+  display: flex; /* Use flexbox to center the canvas */
+  justify-content: center; /* Center the canvas horizontally */
+  align-items: center; /* Center the canvas vertically */
 }
 canvas {
   display: block;
