@@ -91,6 +91,13 @@ function keyPressed() {
     }
 }
 
+function touchStarted() {
+    generateNote();
+    redraw();
+    // Return false to prevent any default behavior
+    return false;
+}
+
 function generateNote() {
     let randomIndex = floor(random(favoriteThings.length));
     note = favoriteThings[randomIndex];
